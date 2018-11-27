@@ -1,0 +1,26 @@
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+  margin: 70px auto;
+  overflow: hidden;
+  width: 80%;
+  text-align: center;
+}
+
+
+
+/*-------RESPONSIVE DESIGN-------*/
+/*-------Tablet Display-------*/
+
+@media screen and ( min-width: 545px ) {
+
+}
+
+/*-------Desktop Display-------*/
+
+@media screen and ( min-width: 769px ) {
+
+}
