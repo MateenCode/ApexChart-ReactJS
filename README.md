@@ -3,7 +3,7 @@
 A simple App that uses ApexChart framework to display  the largest city by population, it display horizontal and vertically.
 
 
-**[View Live](https://mateencode.github.io/ApexCharts-ReactJS/)**
+**[View Live](https://mateencode.github.io/ApexChart-ReactJS/)**
 
 
 ## ScreenShot
